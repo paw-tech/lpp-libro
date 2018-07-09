@@ -2,95 +2,132 @@
 
 ## Ray y Snow
 
-La historia no siempre se presenta ante nuestros ojos de una manera clara y certera. Parece que se escapa y esfuma como los peces se sueltan de las redes de los pescadores del Lago Sagrado y cuando menos lo esperamos, se nos acerca y nos llama a realizar actos de los que no nos creíamos capaces, volteando nuestro mundo de pies a cabeza, haciéndonos dudar hasta de nuestra propia realidad y de lo que creíamos como cierto.
+La historia no siempre se presenta ante nuestros ojos de una manera clara y certera. Parece que se escapa y esfuma como los peces se sueltan de las redes de los pescadores del Lago Sagrado y, cuando menos lo esperamos, se nos acerca, llamándonos a realizar actos de los que no nos creíamos capaces, volteando nuestro mundo de pies a cabeza, haciéndonos dudar hasta de nuestra propia realidad y de lo que creíamos como cierto.
 
-Esto es lo que le sucederá al joven Ray Racoon una cálida mañana de otoño, quien sin imaginarlo, cargará sobre sus hombros la responsabilidad de toda esta historia.
+Esto es lo que le sucederá al joven Ray Raccoon, quien sin imaginarlo, una cálida mañana de otoño se verá envuelto en acontecimientos que pondrán sobre sus hombros la responsabilidad de toda la historia de Terra.
 
 Pero no nos adelantemos.
 
-Ray es un joven trovador nacido en las tierras de la Isla del Sur, exactamente hace dieciocho años, y justo un año antes de un acontecimiento que marcará el inicio de su aventura, aún sin que él lo supiera. Hijo del gran trovador Rab Racoon y de la poetisa Fever Ferret, que fue vista por última vez en la Gran Fábrica, de donde en extrañas circunstancias, desapareció. Criado sólo por su padre, Ray creció recorriendo los parajes de Terra, llevando las historias y versos de la vida presente y pasada junto a él. Esta vida de trovador errante le enseñó a apreciar el mundo en sus múltiples formas y a respetar y comprender las diversas experiencias que la vida le entregaba. 
+Hijo del gran trovador Rab Raccoon y de la poetisa Fever Ferret, Ray es un joven trovador nacido en las tierras de la Isla del Sur, exactamente hace dieciocho años. Fue criado solo por su padre, ya que su madre fue vista por última vez en la Gran Fábrica, de donde un día desapareción en extrañas circunstancias. Ray creció recorriendo los parajes de Terra, llevando las historias y versos de la vida presente y pasada junto a él. Esta vida de trovador errante le enseñó a apreciar el mundo en sus múltiples formas y a respetar y comprender las diversas experiencias que la vida le entregaba. 
 
-Cada cierto tiempo, a lo largo de su recorrido, les tocaba visitar la Isla Central, momento que Ray aprovecha para visitar la Gran Biblioteca donde, además de leer a sus poetas favoritos de la historia, podía relatarle sus viajes y aventuras por todo Terra a Snow, su mejor amiga. 
+Cada cierto tiempo, su recorrido les llevaba a visitar la Isla Central, momentos que Ray aprovecharía para visitar la Gran Biblioteca donde, además de leer a sus poetas favoritos de la historia, podía relatarle sus viajes y aventuras por todo Terra a Snow, su mejor amiga. 
 
-Snow, por otro lado, es una jovencita que ha dedicado su vida entera a prepararse para ser la futura guardiana de la Biblioteca, cargo que ostenta su abuela Sky Squirrel hasta el día del evento que cambiará las vidas de Ray y Snow para siempre. Hija de Trönm Tortoise, el principal ingeniero alquimista de la Mina de Carbón de la Isla del Este y de Sun Squirrel, una maga consejera del Distrito Comercial del Norte. Es la menor del clan de guardianes de la Biblioteca, que desde el origen de los tiempos se ha encargado de resguardar los grandes secretos que se esconden en las profundidades de la Biblioteca. Snow, educada por su abuela, ha pasado gran parte de su vida estudiando los libros de la Biblioteca y aprendiendo las ancestrales artes de la alquimia y de la magia. 
+Snow, por otro lado, es una joven que ha dedicado su vida entera a prepararse para ser la futura guardiana de la Biblioteca, cargo que actualmente ostenta su abuela Sky Squirrel. Hija de Trönm Tortoise, el principal ingeniero alquimista de la Mina de Carbón de la Isla del Este y de Sun Squirrel, una maga consejera del Distrito Comercial del Norte. Es la menor del clan de guardianes de la Biblioteca, que desde el origen de los tiempos se ha encargado de resguardar los grandes secretos que se esconden en las profundidades de ella. Snow, educada por su abuela, ha pasado gran parte de su vida estudiando los libros de la biblioteca y aprendiendo las ancestrales artes de la alquimia y de la magia. 
 
 Sabe que sobre sus hombros recae una gran responsabilidad e intenta llevarlo con la mayor seriedad posible, aunque sueña con vivir las aventuras que su amigo Ray cada cierto tiempo le trae desde los paisajes más recónditos de Terra. 
 
-Así, la vida ha transcurrido tranquilamente para Ray y Snow, sin saber que el rumbo de sus vidas tomará un camino, que jamás hubieran imaginado.
+Así, la vida ha transcurrido tranquilamente para Ray y Snow, sin saber que el rumbo de sus vidas tomará un camino que jamás hubieran imaginado. 
 
-La Gran Biblioteca
+## La Gran Biblioteca
 
-La Gran Biblioteca de Terra es quizás, la construcción más antigua de todo el reino, situada al centro de la isla Central, bajo el gran Árbol de la Sabiduría, resguarda en sus anaqueles la historia de mil años de vida que narran las aventuras de los habitantes de las cinco islas del reino de Terra. 
+La Gran Biblioteca de Terra es quizás la construcción más antigua de todo el reino. Situada al centro de la Isla Central, bajo el gran Árbol de la Sabiduría, resguarda en sus anaqueles la historia de mil años de vida que narran las aventuras de los habitantes de las cinco islas del reino de Terra.
 
-Construida al interior del Árbol sus estantes se reparten por laberínticos pasillos que recorren las entrañas del Árbol, que se pierden en las profundidades de sus enormes raíces. Libros de magia y de alquimia, de poesía de los principales trovadores de la historia y de grandes inventores repletan cada uno de sus rincones. Enfrentada a la Plaza Central, la Biblioteca fue el centro fundante de la ciudad y pilar de la vida cultural de Terra desde el origen de los tiempos. Sus paredes han sido testigo presencial del nacimiento y desarrollo de Terra y de cómo la vida, ha cambiado con el correr de los años. El surgimiento de las máquinas de comunicación hace varios siglos, la ha ido dejando en el olvido junto al conocimiento que sus paredes resguardan. Derruida hoy por el tiempo y casi olvidada por los habitantes de Terra es uno de los últimos vestigios de una vida pasada, donde el valor de la palabra, el verso y la poesía inundaban todo el reino y eran el centro de sociedad. Trovadores y poetas se agrupaban en su entrada a declamar versos y cantar las hazañas épicas que forjaron a este grupo de islas, mientras que escribanos y amanuenses se encargaban de registrar estos versos para la posteridad en enormes libros de grueso lomo y oscurecidas hojas. Cuenta uno de estos versos en uno de los tantos libros, el origen de la Biblioteca, forjada en el inicio por la mano de los creadores:
+Construida al interior del Árbol sus estantes se reparten por laberínticos pasillos que recorren las entrañas de este, perdiéndose en las profundidades de sus enormes raíces. Libros de magia y de alquimia, libros de poesía de los principales trovadores de la historia y manuales de artefactos de grandes inventores repletan cada uno de sus rincones. Enfrentada a la Plaza Central, la Biblioteca fue el centro fundante de la ciudad y pilar de la vida cultural de Terra desde el origen de los tiempos. Sus paredes han sido testigo presencial del nacimiento y desarrollo de Terra y de cómo la vida ha cambiado con el correr de los años. 
 
-*De la nada hizo la tierra y la unió con el cielo, la hizo emprender el vuelo y la bautizó como Terra. Nació libre y sin guerra, entre libros fue forjada. La palabra proclamada en el árbol de los tiempos se construyó el cimiento que resguarda la palabra*.
+El surgimiento de las máquinas de comunicación hace varios siglos, la ha ido dejando en el olvido, junto al conocimiento que sus paredes resguardan. Derruida hoy por el tiempo y casi olvidada por los habitantes de Terra, es uno de los últimos vestigios de una vida pasada, de un tiempo en el que el valor de la palabra, el verso y la poesía inundaban todo el reino y eran el centro de la sociedad. Trovadores y poetas se agrupaban en su entrada a declamar versos y cantar las hazañas épicas que forjaron los destinos de las islas flotantes del reino, mientras que escribanos y amanuenses se encargaban de registrar estos versos para la posteridad en enormes libros de grueso lomo y oscurecidas hojas. Cuenta uno de estos versos en uno de los tantos libros, el origen de la Biblioteca, forjada en el inicio por la mano de los creadores:
 
-*A los ojos de los seres viste noble su grandeza y sostiene con fortaleza la verdad y los deberes. Guía de nuestros poderes pilar noble de la tierra. Que nuestra verdad encierra en sus raíces nacida, nuestra vida sostenida: la Biblioteca de Terra*.
+*De la nada hizo la tierra 
+y la unió con el cielo, 
+la hizo emprender el vuelo 
+y la bautizó como Terra. 
+Nació libre y sin guerra, 
+entre libros fue forjada. 
+La palabra proclamada 
+en el árbol de los tiempos 
+se construyó en el cimiento 
+que resguarda la palabra*.
+
+*A los ojos de los seres 
+viste noble su grandeza 
+y sostiene con fortaleza 
+la verdad y los deberes. 
+Guía de nuestros poderes 
+pilar noble de la tierra. 
+Que nuestra verdad encierra 
+en sus raíces nacida, 
+nuestra vida sostenida: 
+la Biblioteca de Terra*.
 
 La Biblioteca de Terra fue el centro del conocimiento y de la sabiduría durante cientos de años, resguardando el saber acumulado a lo largo de siglos de historia. 
- Lo que muchos no saben, y es en parte lo que nos trae hoy aquí, es que la Biblioteca guarda en sus profundidades un misterioso altar. Este altar ha estado presente desde la creación de Terra y es el punto de unión entre los habitantes de Terra y el Creador de Todo y ha permitido mantener la paz, el equilibrio y la unión entre las Islas y sus habitantes. Este altar resguarda un objeto sagrado que ha sido cuidado y resguardado durante siglos por los descendientes de los primeros habitantes de Terra. Cumpliendo con el pacto que los primeros habitantes realizaron con el Creador de Todo, aceptando cuidarlo y seguir sus enseñanzas evitando que caiga en las manos equivocadas.
+
+Lo que muchos no saben, es en parte lo que nos trae hoy aquí. La Biblioteca guarda en sus profundidades un misterioso altar, que ha estado presente desde la creación de Terra y es el símbolo de la unión entre los habitantes de Terra y el Creador de Todo. El altar ha permitido mantener la paz, el equilibrio y la unión entre las Islas y sus habitantes, esa paz que hoy, después de tantos siglos, se daba por descontada. Este altar resguarda un objeto sagrado, que ha sido cuidado durante siglos por los descendientes de los primeros habitantes de Terra. Cumpliendo con el pacto que los primeros habitantes realizaron con el Creador de Todo, aceptando cuidarlo y seguir sus enseñanzas evitando que caiga en las manos equivocadas.
 
 ## Otoño
 
-Como ya estará adivinando, avezado lector, el objeto del que hemos estado hablando es un libro. Si, un libro. Pero no es cualquier libro. Es el libro que contiene todo el conocimiento, producido desde el origen hasta nuestros días y que solo puede ser leído por aquellos elegidos por él.
+Como ya estará adivinando el avezado lector, el objeto del que hemos estado hablando es un libro. Sí, un libro. Pero no es cualquier libro. Este libro contiene todo el conocimiento desde el origen hasta nuestros días, historias sobre el pasado, el presente y el futuro, las leyes que rigen los cielos y los ciclos de la naturaleza, y la explicación a los misterios más grandes de la magia y de la alquimia. Si bien el libro solo puede ser leído por aquellos elegidos por él, en las manos equivocadas sería capaz de destruir el mundo y todo lo que hay en él. Es por esto que su existencia es el secreto mejor cuidado de Terra.
 
 Esto nos trae a los eventos ocurridos aquella cálida mañana de otoño.
 
-Ray, quien se encuentra nuevamente de paso por la Isla Central, luego de un largo viaje por las tierras de la Isla Oeste, va como de costumbre a visitar a su amiga Snow a la Biblioteca. Emocionado de estar de vuelta en el día de su cumpleaños, espera contarle sobre la excitante vida que se da en el Mercado de la Isla del Oeste y como los agricultores, leñadores y pescadores comercian sus productos frescos y de cómo tras una accidentada navegación en un bote, logró llegar a la isla al interior del Lago de las Plantas y visitó el Santuario del Agua. Absorto en estos pensamientos se encontraba Ray cuando entró a la Biblioteca.
+Ray, quien se encuentra nuevamente de paso por la Isla Central, luego de un largo viaje por las tierras de la Isla Oeste, va como de costumbre a visitar a su amiga Snow a la Biblioteca. Emocionado de estar de vuelta en el día de su cumpleaños, espera contarle sobre la excitante vida que se da en el Mercado de la Isla del Oeste y cómo los agricultores, leñadores y pescadores comercian sus productos frescos y de cómo tras una accidentada navegación en un bote, logró llegar a la isla al interior del Lago de las Plantas y visitó el Santuario del Agua. Traía consigo una pequeña piedra colorida convertida en collar, y pensaba en qué decirle a Snow cuando se la regalara. Absorto en estos pensamientos, Ray entró a la Biblioteca.
 
-Pero algo se sintió diferente esta vez al entrar. Un silencio que jamás había escuchado se apoderó de toda la sala central. Le extrañó no encontrar a Snow detrás del mesón de la entrada y ver una gran cantidad de libros esparcidos por toda la habitación, cuando desde el sótano escucha un fuerte grito:
- \- ¡Abuela! – seguido de un 
- \- ¡Protege el Libro Snow!, ¡es lo único que importa!
+Pero esta vez, algo se sintió diferente al entrar. Un silencio que jamás había sentido reinaba en la sala central. Le extrañó no encontrar a Snow detrás del mesón de la entrada, tampoco se oían voces ni ruidos de ningún tipo. En el suelo, una gran cantidad de libros abiertos y desordenados por toda la habitación, como esparcidos por un fuerte viento. Ray caminó lentamente hacia el centro de la sala, cuando desde el sótano escucha un fuerte grito:
 
-Ray, al oír esto, siente que su gran amiga corre peligro, por lo que decide ir en su rápidamente en su ayuda, sin tener la certeza de lo que podría estar ocurriendo ahí abajo. 
+ – ¡Abuela! – seguido de un 
+ – ¡Protege el Libro Snow!, ¡es lo único que importa!
 
-Sin mucha cautela corre hacia el sótano intentando imaginar que podría estar pasando y esperando que nada malo le haya ocurrido a Snow. Al descender con velocidad por la escalera, al llegar al sótano se encuentra con una imagen que lo dejó pasmado. Cuatro seres, vestidos con túnicas, llevaban en sus espaldas una gran mochila metálica que expedía una nube densa de vapor caluroso que inundaba toda la habitación, disminuyendo la visibilidad del lugar y volviendo el aire denso. Inmediatamente le vino a la mente la imagen de las máquinas a vapor que alguna vez vio que portaban en la Gran Fábrica de la Isla de Sur. Estos cuatros seres tienen acorralada a la abuela Sky, quien, desafiantemente y provista de un grueso libro de hechizos intenta hacerles frente, con las pocas fuerzas que le queda. 
+Ray, al oír esto, siente que su gran amiga corre peligro, por lo que decide ir en su rápidamente en su ayuda. Sin tener la certeza de lo que podría estar ocurriendo ahí abajo, apreta sus dientes y se prepara para lo peor.
 
-Al observar a su alrededor, Ray se da cuenta de que Snow corre hacia él con una gran cara de preocupación. Lo mira y pasándole el Libro le dice:
- – ¡Sal de aquí!, ¡Protege el Libro con tu vida! 
+Sin mucha cautela corre hacia el sótano, intentando imaginar qué podría estar pasando, y esperando que nada malo le hubiera ocurrido a Snow. Desciende velozmente por la escalera, gira a la derecha al final tomando el estrecho pasillo hacia una puerta abierta. Al llegar al sótano se encuentra con una imagen que lo dejó pasmado. Cuatro seres, vestidos con túnicas, llevaban en sus espaldas una gran mochila metálica que expedía una densa nube de vapor caliente que inundaba la habitación. El aire en la habitación era denso, y la visibilidad casi nula. Inmediatamente vino a su mente la imagen de las máquinas a vapor que alguna vez vio en la Gran Fábrica de la Isla de Sur. Estos cuatro seres tienen acorralada a la abuela Sky, quien desafiantemente y provista de un grueso libro de hechizos intenta hacerles frente, visiblemente agotada y desprovista de fuerza. 
 
-Ray, entendiendo la gravedad de la situación, sube las escaleras rápidamente, dejando atrás a su amiga y la abuela Sky luchando contra estos seres.
+Al mirar a su alrededor, Ray observa que Snow corre hacia él. Se denota en su cara una inmensa preocupación, miedo, desesperación. Recobrando el aliento, lo mira fijamente, y pasándole un libro le dice:
+
+ – ¡Sal de aquí!, ¡Protege este libro con tu vida! 
+
+Ray, entendiendo la gravedad de la situación, sube las escaleras rápidamente, dejando atrás a su amiga y la abuela Sky. Los estruendos de la lucha continúan a su espalda, haciéndose más tenues a medida que sube las escaleras.
 
 # CAPITULO 2
 
 ## El Libro del Origen
 
-Aún aturdido con la imagen que acaba de presenciar y sin saber realmente que hacer, Ray sube por las escaleras del sótano en dirección del salón central de la Gran Biblioteca. Al llegar al salón, una fuerte sensación de calor emanada desde la entrada lo rodea completamente, impidiéndole avanzar inmovilizando su cuerpo.
+Aún aturdido con la imagen que acaba de presenciar y sin saber realmente que hacer, Ray sube por las escaleras hasta llegar al salón central de la Gran Biblioteca. Al llegar, una fuerte sensación de calor emanada desde la entrada lo rodea completamente, impidiéndole avanzar inmovilizando su cuerpo.
 
-Un vapor oscuro lo rodea, que lo ahoga, cortándole a momentos la respiración. Lucha con todas sus fuerzas por zafarse de esta energía vaporosa que lo tiene atrapado. Cuando un leve susurro comienza a hablarle al oído, con palabras en un idioma ininteligible pero que le resulta extrañamente familiar. Intentando entender que es lo que el susurro le dice, se concentra en la voz que se encuentra en su oído, prestando la mayor atención posible al sonido. Lentamente comienza a entender más claramente lo que las palabras le dicen lográndolas reconocer perfectamente:
+Un vapor oscuro lo rodea, ahogándolo y cortándole a intervalos la respiración. Lucha con todas sus fuerzas por zafarse de esta energía vaporosa que lo tiene atrapado, pero algo se lo impide, no siente la fuerza en sus brazos y piernas, y un escalofrío le recorre la espalda. Escucha un leve susurro comienza en su oído, alguien habla con palabras en un idioma ininteligible, pero que le resulta extrañamente familiar. Intentando comprender qué es lo que el susurro le dice, se concentra en la voz que se encuentra en su oído, prestando la mayor atención posible al sonido. Lentamente comienza a entender más claramente lo que las palabras le dicen, hasta que logra reconocerlas perfectamente:
 
-*Palabras podrán usar,  la discordia han de sembrar,  y desde ahora hasta el final,  no se sabrán comunicar*.
+*Las palabras podrán usar,  
+mas la discordia han de sembrar,  
+pues desde ahora hasta el final,  
+no se sabrán comunicar*.
 
-Ray recordó en ese momento la leyenda que su padre le contara durante su infancia sobre el origen de Terra y a quién pertenecían esas palabras. Angustiosamente intenta gritar, pero ningún sonido sale de su boca. Siente su cuerpo completamente paralizado y la angustia de no saber qué hacer lo inunda. Por su mente pasan las historias míticas que se han contado por siglos y al lograr reconocer el origen de aquellas palabras prohibidas, el pavor le hace lanzar un profundo alarido entrecortado desde lo más profundo de su ser:
- – ¡Ba… Ba… Babel! 
+Ray recordó en ese momento la leyenda que su padre le contara durante su infancia sobre el origen de Terra y a quién pertenecían esas palabras. Angustiosamente intentó gritar, pero el sonido no fue capaz de salir de su garganta. Siente su cuerpo completamente paralizado y la angustia de no saber qué hacer lo inunda. Siente ganas de llorar, mientras ve en su mente las historias de habitantes de Terra, leyendas míticas que se han contado por siglos. Ve a personas muy distintas a los habitantes de hoy, sumidos en el sufrimiento, el odio y la discordia. Con esa visión reconoció el origen de aquellas palabras prohibidas, el pavor le hace lanzar un profundo alarido, desde lo más profundo de su ser, que se ve entrecortado por la angustia y la brutal certeza de saber con quién se encontraba:
 
-En ese momento la nube de vapor comienza a cambiar de color tornándose cada vez más densa, hasta que desde su profundidad aparece la silueta gigante de la cabeza de un búho con unos enormes cuernos de plumas, un pico de acero del que salen bocanadas de un vapor gélido pero quemante y unos grandes ojos negros fulgurantes que lo miran penetrantemente. La cabeza se acerca hasta Ray diciéndole:
+ – ¡Baaaa...! Ba... Bab... ¡Babel! 
 
-– Así es joven poeta, mi nombre es Babel. Señor de las máquinas y del vapor que les da vida. He sido liberado de mi encierro de cuatrocientos años y vengo a recuperar lo que me corresponde por derecho. Entrégame el Libro que tienes en tus manos y te prometo que ni tu amiga ni su abuela serán lastimadas. Niégate y sufre el poder de mi ira.
+En ese momento la nube de vapor comienza a cambiar de color, tornándose cada vez más densa, hasta que desde su profundidad aparece la silueta gigante de la cabeza de un búho. Unos enormes cuernos de plumas, un pico de acero expele bocanadas de un vapor gélido y abrasivo. Unos enormes ojos negros, que parecían tragarse toda la luz a su alrededor, lo miran penetrantemente, con un fulgor en el centro que hipnotizaba sus pensamientos. La cabeza se acerca hasta Ray, diciéndole:
 
-Paralizado ahora por las palabras de Babel, mil imágenes se cruzan por la mente de Ray. Se pregunta cuál es la mejor decisión que puede tomar. Si entregarle el libro a Babel y bajar a ayudar a Snow y a Sky o luchar  contra él para proteger el libro que Snow le ha encomendado. 
+– Así es joven poeta, mi nombre es Babel. Señor de las máquinas y del vapor que les da vida. He sido liberado de mi largo encierro, y vengo a recuperar lo que me corresponde por derecho. Entrégame el libro que tienes en tus manos, y te prometo que ni tu amiga ni su abuela serán lastimadas. Niégate y sufre las consecuencias de mi ira.
 
-Babel, impaciente ante la indecisión de Ray, se abalanza sobre él dispuesto a quitarle el Libro de las manos. Ray, decide resguardar el libro ya que sabe que Snow es fuerte y podrá salir adelante y ante el inminente ataque, saca fuerzas desde su interior logrando moverse y esquivar el ataque de Babel. Logra con agilidad y valentía esquivar con éxito cada uno de los embistes que hace el monstruo. Mientras continúa esquivando los ataques, del centro del libro una fuerza misteriosa lo abre, lanzando un resplandor que enceguece momentáneamente a Babel. 
+Paralizado ahora por las palabras de Babel, mil imágenes se cruzan por la mente de Ray. Se pregunta cuál es la mejor decisión que puede tomar. Si entregarle el libro a Babel y bajar a ayudar a Snow y a Sky, o luchar  contra él para proteger el libro que Snow le ha encomendado.
 
-Al observar la página que resplandece ve escrito sobre una serie de caracteres que nunca antes había visto, pero aún así logra entender perfectamente:
+Babel, impaciente ante la indecisión de Ray, se abalanza sobre él dispuesto a quitarle el Libro de las manos. Ray, decide resguardar el libro ya que sabe que Snow es fuerte y podrá salir adelante y ante el inminente ataque. Saca fuerzas desde su interior, logrando moverse y esquivar el ataque de Babel. Logra con agilidad y valentía esquivar con éxito cada uno de los embistes que hace el monstruo, que al parecer aún está débil por causa de su largo encierro. Mientras continúa esquivando los ataques, desde el centro del libro siente fuerza misteriosa. El libro se abre y flota en el aire, lanzando un resplandor que enceguece momentáneamente a Babel. 
 
-*Las palabras del conjuro que a él han de encerrar para que no pueda escapar afuera de nuestros muros solo con corazón puro Podrá ser derrotado y del mundo erradicado aquél vapor fulminante con la fuerte voz del cantante que el Libro ha seleccionado*.
+Al observar la página que resplandece, ve escritos en ella una serie de caracteres que nunca antes había visto, pero aún así, logra entender perfectamente lo que dicen. Como de memoria, comienza a recitar:
 
-Al recitar estos versos Ray, Babel se esfuma al instante del lugar dejando tras de sí una estela de vapor gélido. Intentando comprender qué es lo que acaba de suceder, se dispone a ir nuevamente en ayuda de Snow, cuando ve a esta subiendo por las escaleras del sótano. La página que acaba de leer, continúa resplandeciendo.
+*Las palabras del conjuro 
+que a él han de encerrar 
+para que no pueda escapar 
+afuera de nuestros muros. 
+Solo con corazón puro 
+podrá ser derrotado 
+y del mundo erradicado 
+aquél vapor fulminante 
+con la fuerte voz del cantante 
+que el Libro ha seleccionado*.
+
+Al recitar estos versos Ray, Babel se esfuma al instante del lugar, dejando tras de sí una estela de vapor gélido. El aire se hace respirable, y poco a poco la luz exterior vuelve a llenar el salón de la biblioteca. Intentando comprender qué es lo que acaba de suceder, se dispone a ir nuevamente en ayuda de Snow, cuando ve a esta subiendo lentamente por las escaleras del sótano. La página que acaba de leer continúa resplandeciendo.
 
 – ¿Qué ha sucedido Ray? ¿Estás bien? – pregunta Snow preocupada y sorprendida por la página resplandeciente del Libro.
  – Sí. Lo estoy – responde Ray, observando aún la página resplandeciente.
 
-Mientras Snow se acerca Ray, la página comienza lentamente a perder su brillo, hasta perderlo completamente, dejando la página totalmente oscurecida. El Libro se cierra abruptamente, sin que Ray y Snow lo puedan abrir nuevamente. Ambos se miran sorprendidos sin saber que decirse y sin entender realmente que es lo que está pasando.
+Mientras Snow se acerca Ray, la página comienza lentamente a perder su brillo, hasta quedar totalmente oscurecida. El Libro se cierra abruptamente, haciendo un ruido sordo y quedando interte en el suelo. Ray y Snow intentan abrir el libro, primero con suavidad y luego con fuerza, sin éxito alguno. Ambos se miran sorprendidos sin saber que decirse y sin entender realmente que es lo que está pasando.
 
-Preocupados bajan juntos nuevamente por las escaleras en busca de Sky. La encuentran sentada a un costado del altar situado al centro de la habitación. El altar tiene una serie de inscripciones parecidas a las que se encuentran en la tapa del libro. En el centro del alatar, se ve el mapa del reino de Terra, con los símbolos representativos de cada una de las tribus de cada Isla. Llama la atención el agujero de una cerradura, en la zona que representa a la Isla del Centro y las aberturas al centro de cada Isla del grabado. 
+Preocupados, bajan juntos nuevamente por las escaleras en busca de Sky. La encuentran sentada a un costado del altar situado al centro de la habitación. El altar tiene una serie de inscripciones parecidas a las que se encuentran en la tapa del libro. En el centro del alatar, se ve el mapa del reino de Terra, con los símbolos representativos de cada una de las cuatro tribus que gobiernan las islas. Llama la atención el agujero de una cerradura, en la zona que representa a la Isla del Centro y las aberturas al centro de cada Isla del grabado. 
 
 El mapa señala claramente la distribución de las Islas de Terra. Arriba, aparece el símbolo del Aire, correspondiente a la Isla del Norte. A la derecha, el símbolo del Fuego representativo de la Isla del Este. Abajo, el símbolo de la Tierra, escudo de los habitantes de la Isla del Sur. Y a la izquierda, el símbolo del Agua que representa la unión de los pueblos de la Isla del Oeste. 
 
 Sky, cansada, les pide que se acerquen.
 
-– Es momento que sepan la verdad sobre ese Libro que Ray tiene en sus manos y de la lucha a la que se enfrentarán. Se han estado preparando toda su vida. Ray viajando y conociendo la vida de Terra, y tú preparándote acá en la Biblioteca, aprendiendo de la historia, Snow – les dice Sky mirando a los dos sorprendidos jóvenes.
+– Es momento que sepan la verdad sobre ese libro que Ray tiene en sus manos y de la lucha a la que se enfrentarán. Se han estado preparando toda su vida para este momento. Ray ha viajado y conocido la vida y a los habitantes de Terra, y tú preparándote acá en la Biblioteca, aprendiendo de la historia, mi querida nieta – les dice Sky mirando a los dos sorprendidos jóvenes.
+– Prepara un té, Snow – ordenó la anciana – que les contaré una historia muy, pero muy larga.
 
 # CAPÍTULO 3
 
